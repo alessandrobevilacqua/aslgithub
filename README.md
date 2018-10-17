@@ -1,2 +1,0 @@
-# aslgithub
-alternanza scuola-lavoro
